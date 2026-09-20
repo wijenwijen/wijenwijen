@@ -1,8 +1,7 @@
 # Hello, i'm Wijen 😨
 ### I am beginner in Programing.
 <hr>
-<img src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/f92da6a6-be2b-41bc-953b-460d999182c2" width="100%" alt="Wijen Wijen">
-
+![Wijen Wijen](Github_header_1.png)
 
 <!--
 **wijenwijen/wijenwijen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
