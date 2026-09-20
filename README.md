@@ -2,7 +2,7 @@
 ### I am beginner in Programing.
 <hr>
 
-![Wijen Wijen](Github_header_1.png)
+![Wijen Wijen](https://raw.githubusercontent.com/wijenwijen/wijenwijen/main/Github_header_1.png)
 
 <!--
 **wijenwijen/wijenwijen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
